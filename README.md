@@ -3,12 +3,13 @@
 
 - 🔭 I’m currently working on **Audio Software in golang**
 - 🌱 I’m currently learning **Modern C++ and Golang**
-- 📫 How to reach me **Discord notdanhan#3199 or danhan@live.ie**
 - 💬 Ask me about **synthesizers and computers**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <b>Discord:</b> notdanhan#3199<br>
+  <b>Email:</b>   danhan@live.ie
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
