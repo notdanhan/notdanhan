@@ -19,6 +19,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danielh2942&theme=radical&show_icons=true&locale=en" alt="danielh2942" /></p>
 
+<img
+  src="https://github.com/danielh2942/danielh2942/blob/main/images/stat.svg"
+  alt="danielh2942 WakaTime Activity"
+/>
+
 
 <!--
 **danielh2942/danielh2942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
