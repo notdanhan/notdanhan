@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Daniel Hannon</h1>
 <h3 align="center">I like computers</h3>
 
-- 🔭 I’m currently working on **University assignments/Renderer in golang**
-- 🌱 I’m currently learning **Modern C++ and Golang**
+- 🔭 I’m currently working on **Job Stuff and some hobby stuff sometimes**
+- 🌱 I’m currently learning **Stuff**
 - 💬 Ask me about **synthesizers and computers**
 
 
