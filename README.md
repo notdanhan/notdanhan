@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Daniel Hannon</h1>
 <h3 align="center">I like computers</h3>
 
-- 🔭 I’m currently working on **Job Stuff and some hobby stuff sometimes**
-- 🌱 I’m currently learning **Stuff**
-- 💬 Ask me about **synthesizers and computers**
+- 🔭 I’m currently working on **Big Number**
+- 🌱 I’m currently learning **A lot**
+- 💬 Ask me about **computer**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <b>Discord:</b> notdanhan#3199<br>
+  <b>Discord:</b> notdanhan<br>
   <b>Email:</b>   danhan@live.ie
 </p>
 
