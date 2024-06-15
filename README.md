@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Daniel Hannon</h1>
 <h3 align="center">I like computers</h3>
 
-- 🔭 I’m currently working on **Big Number**
-- 🌱 I’m currently learning **A lot**
-- 💬 Ask me about **computer**
+- 🔭 I’m currently working on **Stuff for work**
+- 🌱 I’m currently learning **How to correctly do Concurrency**
+- 💬 Ask me about **A bunch of stuff**
 
 
 <h3 align="left">Connect with me:</h3>
