@@ -11,14 +11,14 @@ I like computers<br>I do a lot of C++ nonsense<br><br>    🔭 I’m currently w
 ![](https://nirzak-streak-stats.vercel.app/?user=notdanhan&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=notdanhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Personal Project dev time
+# Personal Project dev time:
 <img
   src="https://github.com/notdanhan/notdanhan/blob/main/images/stat.svg"
   alt="danielh2942 WakaTime Activity"
 />
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=notdanhan&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=notdanhan&limit=5&theme=dark&combine_all_yearly_contributions=true&hide_contributor_rank=false)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=notdanhan&icon=0&color=0)](https://visitcount.itsvg.in)
