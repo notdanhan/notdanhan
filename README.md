@@ -3,8 +3,8 @@
 <h4 align="center">I do a lot of C++ nonsense</h4>
 
 - 🔭 I’m currently working on **Stuff for work, personal audio software projects**
-- 🌱 I’m currently learning **How to be good work guy yes**
-- 💬 Ask me about **Build Systems, Source Code Migration, Code Correctness, Beer Brewing, Music**
+- 🌱 I’m currently learning **How to be good work guy yes, also project management**
+- 💬 Ask me about **Build Systems, Source Code Migration, Code Correctness, Beer Brewing, Music, Garbage**
 
 
 <h3 align="left">Connect with me:</h3>
